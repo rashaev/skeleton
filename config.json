@@ -10,6 +10,7 @@
        "password":"postgres"
     },
     "logging": {
-       "logfile": "/var/log/skeleton.log"
+       "logfile": "/var/log/skeleton.log",
+       "severity": "info"
     }
  }
